@@ -1,0 +1,3 @@
+/home/cosc/student/kle90/Documents/363Assignment2/assignment2/CMakeFiles/rebuild_cache.dir
+/home/cosc/student/kle90/Documents/363Assignment2/assignment2/CMakeFiles/edit_cache.dir
+/home/cosc/student/kle90/Documents/363Assignment2/assignment2/CMakeFiles/RayTracer.out.dir
